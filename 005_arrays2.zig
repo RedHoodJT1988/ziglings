@@ -15,7 +15,7 @@
 // program is _being compiled_. This special time is known in Zig
 // parlance as "comptime" and we'll learn plenty more about that
 // later.
-//
+
 const std = @import("std");
 
 pub fn main() void {
@@ -25,12 +25,12 @@ pub fn main() void {
     // (Problem 1)
     // Please set this array concatenating the two arrays above.
     // It should result in: 1 3 3 7
-    const leet = ???;
+    const leet = le ++ et;
 
     // (Problem 2)
     // Please set this array using repetition.
     // It should result in: 1 0 0 1 1 0 0 1 1 0 0 1
-    const bit_pattern = [_]u8{ ??? } ** 3;
+    const bit_pattern = [_]u8{ 1, 0, 0, 1 } ** 3;
 
     // Okay, that's all of the problems. Let's see the results.
     //
